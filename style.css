@@ -9,7 +9,7 @@
     outline: none;
     scroll-behavior: smooth;
     
-    font-family: "Pacifico", cursive;
+    font-family: 'Poppins', sans-serif;
 }
 :root{
     --bg-color: linear-gradient(150.40deg, #4f8f5d 0%, #352357);
@@ -175,7 +175,7 @@ section{
         margin-bottom: 4rem;
     }
     .home-content p{
-            font-size: 2rem;
+            font-size: 2.3rem;
             text-align: justify;
     }
     .home-img img{
